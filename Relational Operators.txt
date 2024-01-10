@@ -1,0 +1,5 @@
+﻿Build started at 1:44 PM...
+1>------ Build started: Project: ConsoleApp4, Configuration: Debug Any CPU ------
+1>  ConsoleApp4 -> C:\Users\umaka\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 1:44 PM and took 00.257 seconds ==========
